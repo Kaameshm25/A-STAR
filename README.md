@@ -166,4 +166,4 @@ aStarAlgo(start_node, goal_node)
 <hr>
 <h3>Result:</h3>
 <hr>
-<p>Thus,The experiment was done successfully.</p>
+<p>Thus,The Implementation of A* search algorithm for a Graph is successfully executed.</p>
